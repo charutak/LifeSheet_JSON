@@ -503,35 +503,35 @@
         "question": "How much did you squat?, /skip",
         "category": "Physical Health",
         "displayName": "Squats",
-        "type": "text"
+        "type": "number"
       },
       {
         "key": "benchPress",
         "question": "How much did you bench press?",
         "category": "Physical Health",
         "displayName": "Bench Press",
-        "type": "text"
+        "type": "number"
       },
       {
         "key": "deadlift",
         "question": "How much did you deadlift?",
         "category": "Physical Health",
         "displayName": "Deadlift",
-        "type": "text"
+        "type": "number"
       },
       {
         "key": "shoulderPress",
         "question": "How much did you shoulder press?",
         "category": "Physical Health",
         "displayName": "Shoulder Press",
-        "type": "text"
+        "type": "number"
       },
       {
         "key": "curls",
         "question": "How much did you curl?",
         "category": "Physical Health",
         "displayName": "Curls",
-        "type": "text"
+        "type": "number"
       }
     ]
   }
