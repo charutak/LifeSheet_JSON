@@ -449,8 +449,89 @@
         "type": "text"
       },
       {
+        "key": "photo",
+        "question": "Did a take a photo of yourself last week?",
+        "category": "Physical Health",
+        "displayName": "Photo",
+        "type": "boolean",
+        "buttons": {
+          "true": "Yes",
+          "false": "No"
+        }
+      },
+      {
         "question": "🎁 Let's wrap things up",
         "type": "header"
+      }
+    ]
+  },
+  "workout": {
+    "description": "Details about your workout",
+    "schedule": "weekly",
+    "questions": [
+      {
+        "key": "workoutStrength",
+        "question": "How tough was your workout?",
+        "category": "Physical Health",
+        "displayName": "Workout Level",
+        "type": "range",
+        "buttons": {
+          "0": "Breeze, felt like a walk",
+          "1": "Some sweat, but not too much",
+          "2": "Average",
+          "3": "Tough, but doable",
+          "4": "Hard",
+          "5": "Died"
+        }
+      },
+      {
+        "key": "workoutMuscleGroup",
+        "question": "What muscle group did you work on?",
+        "category": "Physical Health",
+        "displayName": "Muscle Group",
+        "type": "range",
+        "buttons": {
+          "0": "Legs",
+          "1": "Back, Biceps, Triceps",
+          "2": "Chest, Shoulders, Abs",
+          "3": "Whole Body",
+          "4": "Upper Body"
+        }
+      },
+      {
+        "key": "squats",
+        "question": "How much did you squat?, /skip",
+        "category": "Physical Health",
+        "displayName": "Squats",
+        "type": "text"
+      },
+      {
+        "key": "benchPress",
+        "question": "How much did you bench press?",
+        "category": "Physical Health",
+        "displayName": "Bench Press",
+        "type": "text"
+      },
+      {
+        "key": "deadlift",
+        "question": "How much did you deadlift?",
+        "category": "Physical Health",
+        "displayName": "Deadlift",
+        "type": "text"
+      },
+      {
+        "key": "shoulderPress",
+        "question": "How much did you shoulder press?",
+        "category": "Physical Health",
+        "displayName": "Shoulder Press",
+        "type": "text"
+      },
+      {
+        "key": "curls",
+        "question": "How much did you curl?",
+        "category": "Physical Health",
+        "displayName": "Curls",
+        "type": "text"
       }
     ]
   }
