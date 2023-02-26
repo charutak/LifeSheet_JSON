@@ -132,22 +132,6 @@
         }
       },
       {
-        "key": "numberOfMeals",
-        "isVisibleInVisualizer": true,
-        "displayName": "Number of meals",
-        "question": "How many meals did you have today?",
-        "category": "Physical Health",
-        "type": "range",
-        "buttons": {
-          "0": "What is food?",
-          "1": "1",
-          "2": "2",
-          "3": "3",
-          "4": "4",
-          "5": "5"
-        }
-      },
-      {
         "key": "caffeine",
         "question": "How much caffeine did you drink today? (Coffee, Club Mate, Energy Drinks)",
         "displayName": "Caffeine intake",
@@ -179,14 +163,6 @@
           "4": "Before 5pm",
           "5": "Before 3pm"
         }
-      },
-      {
-        "key": "vitamins",
-        "isVisibleInVisualizer": true,
-        "category": "Physical Health",
-        "displayName": "Vitamins",
-        "question": "Did you take vitamins?",
-        "type": "boolean"
       },
       {
         "key": "gym",
@@ -306,16 +282,6 @@
         "question": "How many pomodoros did you complete today? /skip ",
         "category": "Productivity",
         "type": "number"
-      },
-      {
-        "key": "watchedTV",
-        "question": "Did you watch TV or a movie, outside of food?",
-        "displayName": "Watched TV",
-        "isVisibleInVisualizer": true,
-        "isPositive": false,
-        "isReverse": false,
-        "category": "Productivity",
-        "type": "boolean"
       },
       {
         "key": "numberOfWorkMeetings",
