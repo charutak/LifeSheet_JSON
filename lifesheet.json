@@ -173,6 +173,14 @@
         "type": "boolean"
       },
       {
+        "key": "proteinShake",
+        "isVisibleInVisualizer": true,
+        "category": "Physical Health",
+        "displayName": "Protein shake",
+        "question": "Did you drink a protein shake today?",
+        "type": "boolean"
+      },
+      {
         "key": "coke",
         "question": "How many aerated drinks did you have today?",
         "category": "Physical Health",
