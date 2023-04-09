@@ -288,6 +288,7 @@
     "key": "pomodoroDone",
     "displayName": "Pomodoros Done",
     "question": "How many pomodoros did you complete today? /skip ",
+    "isVisibleInVisualizer": true,
     "category": "Productivity",
     "graphType": "line",
     "type": "number"
@@ -297,6 +298,7 @@
     "displayName": "Work Meetings",
     "question": "How many work meetings did you have today? This includes work-related phone calls",
     "category": "Productivity",
+     "isVisibleInVisualizer": true,
     "graphType": "line",
     "isPositive": false,
     "type": "number"
@@ -522,6 +524,7 @@
     "question": "How much did you squat?, /skip",
     "graphType": "line",
     "category": "Physical Health",
+    "isVisibleInVisualizer": true, 
     "displayName": "Squats",
     "type": "number"
     },
@@ -531,6 +534,7 @@
     "graphType": "line",
     "category": "Physical Health",
     "displayName": "Bench Press",
+    "isVisibleInVisualizer": true,
     "type": "number"
     },
     {
@@ -539,6 +543,7 @@
     "graphType": "line",
     "category": "Physical Health",
     "displayName": "Deadlift",
+    "isVisibleInVisualizer": true,
     "type": "number"
     },
     {
@@ -546,6 +551,7 @@
     "question": "How much did you shoulder press?",
     "graphType": "line",
     "category": "Physical Health",
+    "isVisibleInVisualizer": true,    
     "displayName": "Shoulder Press",
     "type": "number"
     },
@@ -555,6 +561,7 @@
     "graphType": "line",
     "category": "Physical Health",
     "displayName": "Curls",
+    "isVisibleInVisualizer": true,
     "type": "number"
     }
     ]
