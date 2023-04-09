@@ -395,6 +395,7 @@
             {
                 "key": "whoGrew",
                 "question": "Who grew? /skip ",
+                "displayName": "Who Grew?",
                 "type": "text",
                 "category": "Work"
             },
