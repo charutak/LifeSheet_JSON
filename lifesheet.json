@@ -361,6 +361,7 @@
     "question": "How was last week's training sessions?",
     "category": "Physical Health",
     "displayName": "Training Adherence",
+        "isVisibleInVisualizer": true,
     "type": "range",
     "cadence": "week",
     "buttons": {
@@ -381,6 +382,7 @@
     "question": "Did you work on your personal branding last week?",
     "category": "Productivity",
     "displayName": "Personal Branding",
+        "isVisibleInVisualizer": true,
     "cadence": "week",
     "type": "boolean",
     "buttons": {
@@ -392,6 +394,7 @@
     "key": "writing",
     "question": "Did you write last week?",
     "category": "Productivity",
+        "isVisibleInVisualizer": true,
     "displayName": "Writing",
     "cadence": "week",
     "type": "boolean",
@@ -404,6 +407,7 @@
     "key": "sidey",
     "question": "Did you publish a side project last week?",
     "category": "Productivity",
+        "isVisibleInVisualizer": true,
     "displayName": "Side Project",
     "cadence": "week",
     "type": "boolean",
@@ -416,6 +420,7 @@
     "key": "teach",
     "question": "Did you spend time on teaching last week? Can be a teaching blog OR a talk. But should be replayable",
     "category": "Productivity",
+        "isVisibleInVisualizer": true,
     "displayName": "Teaching",
     "cadence": "week",
     "type": "boolean",
@@ -429,6 +434,7 @@
     "question": "Do you feel like you moved into the right direction in life the past week?",
     "category": "Productivity",
     "cadence": "week",
+        "isVisibleInVisualizer": true,
     "displayName": "Life Progress",
     "type": "range",
     "buttons": {
@@ -450,6 +456,7 @@
     "category": "Social",
     "cadence": "week",
     "displayName": "Deep Conversations",
+        "isVisibleInVisualizer": true,
     "type": "range",
     "buttons": {
     "0": "No deep conversations, but I need it",
