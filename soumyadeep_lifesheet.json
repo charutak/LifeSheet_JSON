@@ -538,6 +538,7 @@
                 "question": "Did you climb last week?",
                 "category": "Physical Health",
                 "displayName": "Rock Climb",
+                "isVisibleInVisualizer": true,
                 "cadence": "week",
                 "type": "boolean",
                 "buttons": {
@@ -567,6 +568,7 @@
                 "category": "Productivity",
                 "cadence": "week",
                 "displayName": "Personal Branding",
+                "isVisibleInVisualizer": true,
                 "type": "boolean",
                 "buttons": {
                     "true": "Yes",
@@ -579,6 +581,7 @@
                 "category": "Productivity",
                 "cadence": "week",
                 "displayName": "Writing",
+                "isVisibleInVisualizer": true,
                 "type": "boolean",
                 "buttons": {
                     "true": "Yes",
@@ -590,6 +593,7 @@
                 "question": "Did you publish a side project last week?",
                 "category": "Productivity",
                 "cadence": "week",
+                "isVisibleInVisualizer": true,
                 "displayName": "Side Project",
                 "type": "boolean",
                 "buttons": {
@@ -602,6 +606,7 @@
                 "question": "Did you spend time on teaching last week? Can be a teaching blog OR a talk. But should be replayable",
                 "category": "Productivity",
                 "cadence": "week",
+                "isVisibleInVisualizer": true,
                 "displayName": "Teaching",
                 "type": "boolean",
                 "buttons": {
@@ -618,6 +623,7 @@
                 "question": "Did you have deep conversations with close friends/family last week?",
                 "category": "Social",
                 "cadence": "week",
+                "isVisibleInVisualizer": true,
                 "displayName": "Deep Conversations",
                 "type": "range",
                 "buttons": {
