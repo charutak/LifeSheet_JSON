@@ -523,7 +523,7 @@
     "key": "squats",
     "question": "How much did you squat?, /skip",
     "graphType": "line",
-    "category": "Physical Health",
+    "category": "Workout",
     "isVisibleInVisualizer": true, 
     "displayName": "Squats",
     "type": "number"
@@ -532,7 +532,7 @@
     "key": "benchPress",
     "question": "How much did you bench press?",
     "graphType": "line",
-    "category": "Physical Health",
+    "category": "Workout",
     "displayName": "Bench Press",
     "isVisibleInVisualizer": true,
     "type": "number"
@@ -541,7 +541,7 @@
     "key": "deadlift",
     "question": "How much did you deadlift?",
     "graphType": "line",
-    "category": "Physical Health",
+    "category": "Workout",
     "displayName": "Deadlift",
     "isVisibleInVisualizer": true,
     "type": "number"
@@ -550,7 +550,7 @@
     "key": "shoulderPress",
     "question": "How much did you shoulder press?",
     "graphType": "line",
-    "category": "Physical Health",
+    "category": "Workout",
     "isVisibleInVisualizer": true,    
     "displayName": "Shoulder Press",
     "type": "number"
@@ -559,7 +559,7 @@
     "key": "curls",
     "question": "How much did you curl?",
     "graphType": "line",
-    "category": "Physical Health",
+    "category": "Workout",
     "displayName": "Curls",
     "isVisibleInVisualizer": true,
     "type": "number"
