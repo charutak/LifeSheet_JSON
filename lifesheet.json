@@ -281,6 +281,14 @@
     "type": "boolean"
     },
     {
+    "key": "piano",
+    "displayName": "Played Piano",
+    "question": "Did you play piano today?",
+    "category": "Hobbies",
+    "isVisibleInVisualizer": true,
+    "type": "boolean"
+    },
+    {
     "question": "🧠 Let's talk productivity",
     "type": "header"
     },
