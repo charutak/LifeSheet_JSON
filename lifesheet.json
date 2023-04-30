@@ -24,6 +24,8 @@
     "displayName": "Distracted",
     "question": "How distracted are you feeling right now?",
     "type": "range",
+    "isPositive": false,
+    "isReverse": true,
     "isVisibleInVisualizer": true,
     "category": "Mental Health",
     "buttons": {
